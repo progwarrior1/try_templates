@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Кадидаты по имени {{name}}</title>
+</head>
+<body>
+    <h1>найдено кандидатов {{ length }}</h1>
+    {% for key, value in dictionary.items() %}
+        <p><a href="/candidate/{{key}}">{{value}}</a></p>
+    {% endfor %}
+</body>
+</html>

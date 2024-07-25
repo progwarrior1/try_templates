@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск по навыку</title>
+</head>
+<body>
+    <h1>Найдено кандидатов {{ length }}</h1>
+    {% for key, value in dictionary.items() %}
+        <p><a href="/candidate/{{key}}">{{value}}</a></p>
+    {% endfor %}
+</body>
+</html>

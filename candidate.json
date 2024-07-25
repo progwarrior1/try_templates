@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://avatars.mds.yandex.net/i?id=3235d6732e3c1e303eb7427349be6c1468679eb9-5652108-images-thumbs&n=13",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://avatars.mds.yandex.net/i?id=a6b5d623a8947bdaeb33450fef2dcdbfc8421905-8272739-images-thumbs&n=13",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://img.freepik.com/free-photo/joyful-young-bearded-man-colorful-t-shirt-floral-shirt-leans-wall-listens-music-headphones-outside_197531-23741.jpg",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://img.freepik.com/premium-photo/portrait-handsome-african-american-man-sweater_1098072-610.jpg",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://img.freepik.com/free-photo/indoor-shot-surprised-happy-excited-good-looking-man-being-kissed-cheek-feleing-thrilled-upbeat-touching-face-with-palm-raising-eyebrows-smiling-from-happiness-white-wall_176420-22604.jpg",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "id": 6,
+    "name": "Austin Cochran",
+    "picture": "https://img.freepik.com/free-photo/close-up-portrait-of-attractive-male-model_176420-30005.jpg",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "id": 7,
+    "name": "Sheree Love",
+    "picture": "https://avatars.mds.yandex.net/i?id=a9423acd1bd5b0b67bac90cff60e96db6932de7e-12481490-images-thumbs&n=13",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]
