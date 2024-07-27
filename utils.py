@@ -27,7 +27,8 @@ class Candidate:
         string = {}
         for can_ in candidate.values():
             candidate1 = can_['name'].split(' ')
-            if candidate_name in candidate1:
+            candidate1 = [x.lower() for x in candidate1]
+            if candidate_name.lower() in candidate1:
                 string[count] = can_['name']
             count += 1
         return string
@@ -38,6 +39,6 @@ class Candidate:
         for can_ in candidate.values():
             candidate1 = can_['skills'].split(', ')
             candidate1 = [x.lower() for x in candidate1]
-            if skill_name in candidate1:
+            if skill_name.lower() in candidate1:
                 string[count] = can_['name']
         return string
